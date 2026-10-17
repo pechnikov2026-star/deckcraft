@@ -444,7 +444,7 @@ mod tests {
             crate::i18n::set_current(language);
             let tex = textures.slide(ctx, p, 0, (480, 270), Region::slide(480, 270), true, 0, false, &[], None, None).unwrap();
             let mut delta = ctx.tex_manager().write().take_delta();
-            let image = delta.set.get(&tex.id()).and_then(|images| images.last()).map(|image| image.image.clone());
+            let image = delta.set.get(&tex.0.id()).and_then(|images| images.last()).map(|image| image.image.clone());
             delta.clear();
             image.expect("the changed interface language must update the canvas texture")
         }

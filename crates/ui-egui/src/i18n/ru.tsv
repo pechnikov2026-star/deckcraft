@@ -1201,19 +1201,193 @@ Zoom Out	Уменьшить
 Zoom…	Масштаб…
 a) b) c)	a) b) c)
 a. b. c.	a. b. c.
+Accept Revision	Принять исправление
+Action Settings	Настройка действия
+Add Font	Добавить шрифт
+Add Guide	Добавить направляющую
+Add Point	Добавить точку
+Add Shape	Добавить фигуру
+Add to Dictionary	Добавить в словарь
+Align Cell Text	Выровнять текст ячейки
+Apply Design Idea	Применить идею дизайна
+Arrow: Circular	Стрелка: Круговая
+Arrow: Circular Counter-clockwise	Стрелка: Круговая против часовой стрелки
+Arrow: Circular Two-headed	Стрелка: Круговая двусторонняя
+Arrow: Curved Down	Стрелка: Дуговая вниз
+Arrow: Curved Left	Стрелка: Дуговая влево
+Arrow: Curved Right	Стрелка: Дуговая вправо
+Arrow: Curved Up	Стрелка: Дуговая вверх
+Arrow: Swoosh	Стрелка: Взмах
+Artistic Effects	Художественные эффекты
+AutoCorrect Options	Параметры автозамены
+Bean	Фасолина
+Borders	Границы
+Bounce Left	Отскок влево
+Bounce Right	Отскок вправо
+Browse for Themes…	Обзор тем…
+Callout: Bent Line	Выноска: Ломаная линия
+Callout: Bent Line with Accent Bar	Выноска: Ломаная линия с акцентной полосой
+Callout: Bent Line with Border and Accent Bar	Выноска: Ломаная линия с контуром и акцентной полосой
+Callout: Bent Line with No Border	Выноска: Ломаная линия без контура
+Callout: Double Bent Line	Выноска: Двойная ломаная линия
+Callout: Double Bent Line with Accent Bar	Выноска: Двойная ломаная линия с акцентной полосой
+Callout: Double Bent Line with Border and Accent Bar	Выноска: Двойная ломаная линия с контуром и акцентной полосой
+Callout: Double Bent Line with No Border	Выноска: Двойная ломаная линия без контура
+Callout: Left-Right Arrow	Выноска: Стрелка влево-вправо
+Callout: Line with Accent Bar	Выноска: Линия с акцентной полосой
+Callout: Line with Border and Accent Bar	Выноска: Линия с контуром и акцентной полосой
+Callout: Line with No Border	Выноска: Линия без контура
+Callout: Quad Arrow	Выноска: Четырехсторонняя стрелка
+Callout: Up-Down Arrow	Выноска: Стрелка вверх-вниз
+Cell Margins	Поля ячейки
+Change Colors	Изменить цвета
+Change Layout	Изменить макет
+Change Picture…	Изменить рисунок…
+Change Spelling	Изменить написание
+Chart Marker: Cross Lines	Маркер диаграммы: Крест из линий
+Chart Marker: Plus Lines	Маркер диаграммы: Плюс из линий
+Chart Marker: Star Lines	Маркер диаграммы: Звезда из линий
+Color At	Цвет в точке
+Commit Composition	Подтвердить ввод
+Compare	Сравнить
+Compare…	Сравнить…
+Compose Text	Составить текст
+Compress Pictures	Сжать рисунки
+Contract	Сжатие
+Convert to Shapes	Преобразовать в фигуры
+Convert to SmartArt	Преобразовать в SmartArt
+Convert to Text	Преобразовать в текст
+Corner Tabs: Quarter Circles	Фотоуголки: Четверть круга
+Corner Tabs: Squares	Фотоуголки: Квадраты
+Corner Tabs: Triangles	Фотоуголки: Треугольники
+Crescent Moon	Полумесяц
+Curved Square	Изогнутый квадрат
+Decaying Wave	Затухающая волна
+Delete Guide	Удалить направляющую
+Delete Point	Удалить точку
+Demote	Понизить уровень
+Diagonal Down Right	Вниз по диагонали вправо
+Diagonal Up Right	Вверх по диагонали вправо
+Draw Table	Нарисовать таблицу
 dropped file	перетащенный файл
+Edit Photo Album…	Изменить фотоальбом…
+Edit Points	Изменить точки
+Edit SmartArt Text	Изменить текст SmartArt
+End Review	Завершить проверку
+Find	Найти
+Flowchart: Offline Storage	Блок-схема: Автономное хранилище
+Fonts in Presentation	Шрифты в презентации
+Font…	Шрифт…
+Football	Регбийный мяч
+Gear: 6 Teeth	Шестерня: 6 зубьев
+Gear: 9 Teeth	Шестерня: 9 зубьев
+Grid and Guides	Сетка и направляющие
+Grid Options…	Параметры сетки…
+Handout Placeholders	Заполнители выдачи
+Heartbeat	Сердцебиение
+Hex D	Шестиугольник снизу
+Hex L	Шестиугольник слева
+Hex R	Шестиугольник справа
+Hex U	Шестиугольник сверху
+Horizontal Figure 8	Горизонтальная восьмерка
 i. ii. iii.	i. ii. iii.
+Icon Gallery	Галерея значков
+Info	Сведения
+Ink to Shape: turn drawn lines, rectangles, ovals and triangles into shapes	Рукописный ввод в фигуру: превращает нарисованные линии, прямоугольники, овалы и треугольники в фигуры
+Insert Picture in SmartArt	Вставить рисунок в SmartArt
+Insert Picture in SmartArt…	Вставить рисунок в SmartArt…
+Insert Synonym	Вставить синоним
+Layout Placeholders	Заполнители макета
+Line: Rising	Линия: Восходящая
+Loop de Loop	Мертвая петля
+Move Guide	Переместить направляющую
+Move Handle	Переместить маркер
+Move Point	Переместить точку
+Neutron	Нейтрон
+New Window	Новое окно
+Next Comment	Следующий комментарий
+No comments.	Комментариев нет.
 no presentation open	Нет открытой презентации
 no slides	Нет слайдов
 no text insertion point	Нет точки ввода текста
+Notes Placeholders	Заполнители заметок
 nothing selected	Ничего не выбрано
 nothing to redo	Нет действий для повтора
 nothing to undo	Нет действий для отмены
+Open	Открыть
+Particles In	Частицы, появление
+Particles Out	Частицы, исчезновение
+Paste Special	Специальная вставка
+Paste Special…	Специальная вставка…
+Peanut	Арахис
+Peek Out	Подглядывание наружу
+Photo Album…	Фотоальбом…
+Pick a design for this slide. Ideas are generated on your device.	Выберите дизайн для этого слайда. Идеи генерируются на вашем устройстве.
+Picture Style Gallery	Галерея стилей рисунков
+Point Type	Тип точки
+Points	Точки
+Preserve	Сохранить
+Preview Animations	Просмотр анимации
+Previous Comment	Предыдущий комментарий
+Print	Печать
+Print…	Печать…
+Promote	Повысить уровень
+Quarter Wedge	Четверть клина
+Quick Access Toolbar	Панель быстрого доступа
+Recolor	Перекрасить
+Recolor Gallery	Галерея перекраски
+Remove Shape	Удалить фигуру
+Replace	Заменить
+Replace Fonts	Замена шрифтов
+Replace…	Заменить…
+Rescan Installed Fonts	Пересканировать установленные шрифты
+Reuse Slides…	Повторное использование слайдов…
+Revisions	Исправления
+Ribbon: Curved and Tilted Down	Лента: изогнутая с наклоном вниз
+Ribbon: Curved and Tilted Up	Лента: изогнутая с наклоном вверх
+Ribbon: Left-Right Fold	Лента: сгиб влево-вправо
+S Curve 1	S-кривая 1
+S Curve 2	S-кривая 2
 select text or a shape	Выберите текст или фигуру
 select two or more objects	Выберите два или более объектов
+Set Transparent Color	Установить прозрачный цвет
+Set Zoom	Задать масштаб
+Sine Wave	Синусоида
+Single L	Одиночный слева
+Single R	Одиночный справа
+Sink Down	Погружение
 size (pt)	размер (пт)
+Size and Position…	Размер и положение…
+SmartArt Styles	Стили SmartArt
+Smooth Corners	Скругленные углы
+Sound	Звук
+Spelling Dictionary	Орфографический словарь
+Spiral Left	Спираль влево
+Spiral Right	Спираль вправо
+Spring	Пружина
+Stairs Down	Ступени вниз
+Starter Templates	Стартовые шаблоны
+Strips In	Полосы, появление
+Strips Out	Полосы, исчезновение
+Swoosh	Взмах
+Table Eraser	Ластик таблиц
+Tabs…	Табуляция…
+Text Pane	Область текста
+Text Transform	Преобразовать текст
+Text Transparency	Прозрачность текста
 tOGGLE cASE	иЗМЕНИТЬ рЕГИСТР
+Trapezoid: Uneven Sides	Трапеция: Неравные стороны
 unknown interface language	Неизвестный язык интерфейса
+Unlock	Разблокировать
+Variant Gallery	Галерея вариантов
+Variants	Варианты
+Vertical Figure 8	Вертикальная восьмерка
+Zigzag	Зигзаг
+ (not checked)	 (не проверено)
+4 Point Star	Звезда с 4 лучами
+5 Point Star	Звезда с 5 лучами
+6 Point Star	Звезда с 6 лучами
+8 Point Star	Звезда с 8 лучами
 {ch}  Bullet	{ch}  Маркер
 {f} (Body)	{f} (Основной текст)
 {f} (Headings)	{f} (Заголовки)

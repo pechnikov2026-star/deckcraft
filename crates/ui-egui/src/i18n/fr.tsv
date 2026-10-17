@@ -11,7 +11,7 @@
 + New Slide	+ Nouvelle diapositive
 + Row	+ Ligne
 + Series	+ Série
-+Bin	+ Intervalle
++Bin	+Intervalle
 100% Stacked Bar	Barres 100% empilées
 100% Stacked Column	Histogramme 100% empilé
 35mm Slides	Diapositives 35 mm
@@ -30,23 +30,23 @@ Accent 3	Accent 3
 Accent 4	Accent 4
 Accent 5	Accent 5
 Accent 6	Accent 6
-Accessibility Checker	Vérificateur d’accessibilité
+Accessibility Checker	Vérificateur d'accessibilité
 Across	En travers
 Action	Action
-Action Button: Custom	Bouton d’action : Personnalisé
-Action Button: Document	Bouton d’action : Document
-Action Button: Get Information	Bouton d’action : Informations
-Action Button: Go Back	Bouton d’action : Retour
-Action Button: Go Back or Previous	Bouton d’action : Précédent
-Action Button: Go Forward or Next	Bouton d’action : Suivant
-Action Button: Go Home	Bouton d’action : Accueil
-Action Button: Go to Beginning	Bouton d’action : Début
-Action Button: Go to End	Bouton d’action : Fin
-Action Button: Help	Bouton d’action : Aide
-Action Button: Sound	Bouton d’action : Son
-Action Button: Video	Bouton d’action : Vidéo
-Action Button: {k}	Bouton d’action : {k}
-Action Buttons	Boutons d’action
+Action Button: Custom	Bouton d'action : Personnalisé
+Action Button: Document	Bouton d'action : Document
+Action Button: Get Information	Bouton d'action : Informations
+Action Button: Go Back	Bouton d'action : Retour
+Action Button: Go Back or Previous	Bouton d'action : Précédent
+Action Button: Go Forward or Next	Bouton d'action : Suivant
+Action Button: Go Home	Bouton d'action : Accueil
+Action Button: Go to Beginning	Bouton d'action : Début
+Action Button: Go to End	Bouton d'action : Fin
+Action Button: Help	Bouton d'action : Aide
+Action Button: Sound	Bouton d'action : Son
+Action Button: Video	Bouton d'action : Vidéo
+Action Button: {k}	Bouton d'action : {k}
+Action Buttons	Boutons d'action
 Add Animation	Ajouter une animation
 Add Section	Ajouter une section
 Add\nAnimation	Ajouter\nune animation
@@ -69,12 +69,12 @@ Alt+F9	Alt+F9
 Alt\nText	Texte de\nremplacement
 An open-source, clean-room project. Not affiliated with Microsoft.	Projet open source indépendant, conçu de toutes pièces. Sans affiliation avec Microsoft.
 Angle	Angle
-Animation Gallery	Galerie d’animations
+Animation Gallery	Galerie d'animations
 Animation Pane	Volet Animation
-Animation Styles	Styles d’animation
+Animation Styles	Styles d'animation
 Animation\nPane	Volet\nAnimation
 Animations	Animations
-Animation Painter	Reproduire l’animation
+Animation Painter	Reproduire l'animation
 Apply Animation	Appliquer une animation
 Play/Pause GIF	Lire/mettre en pause le GIF
 Animations on Slide	Animations de la diapositive
@@ -110,15 +110,15 @@ Arrows	Flèches
 Arrows at both ends	Flèches aux deux extrémités
 As One Object	Comme un objet unique
 Audio	Audio
-Audio from File…	Audio à partir d’un fichier…
+Audio from File…	Audio à partir d'un fichier…
 AutoCorrect as you type	Correction automatique pendant la saisie
 Autofit	Ajustement automatique
 Automatic	Automatique
 B4 (ISO) Paper (250x353 mm)	Papier B4 (ISO) (250x353 mm)
 B5 (ISO) Paper (176x250 mm)	Papier B5 (ISO) (176x250 mm)
 Background	Arrière-plan
-Background Styles	Styles d’arrière-plan
-Background\nStyles	Styles\nd’arrière-plan
+Background Styles	Styles d'arrière-plan
+Background\nStyles	Styles\nd'arrière-plan
 Backspace	Retour arrière
 Banded Columns	Colonnes à bandes
 Banded Rows	Lignes à bandes
@@ -145,8 +145,8 @@ Both	Les deux
 Bottom	Bas
 Bounce	Rebond
 Box	Boîte
-Box In	Boîte vers l’intérieur
-Box Out	Boîte vers l’extérieur
+Box In	Boîte vers l'intérieur
+Box Out	Boîte vers l'extérieur
 Box and Whisker	Boîte à moustaches
 Brightness	Luminosité
 Brightness {:+}%	Luminosité {:+}%
@@ -166,7 +166,7 @@ Callout: Right Arrow	Légende : Flèche vers la droite
 Callout: Up Arrow	Légende : Flèche vers le haut
 Callouts	Légendes
 Cameo	Cameo
-Camera capture is not available yet	La capture de la caméra n’est pas encore disponible
+Camera capture is not available yet	La capture de la caméra n'est pas encore disponible
 Cancel	Annuler
 Capitalize Each Word	Capitaliser chaque mot
 Caps	Majuscules
@@ -174,7 +174,7 @@ Center	Centrer
 Centered	Centré
 Change Case	Changer la casse
 Change Chart Type	Changer le type de graphique
-Change Picture	Changer l’image
+Change Picture	Changer l'image
 Change Shape	Changer la forme
 Change\nChart Type	Changer le type\nde graphique
 Character Spacing	Espacement des caractères
@@ -184,17 +184,17 @@ Chart Data	Données du graphique
 Chart Design	Création de graphique
 Chart Elements	Éléments du graphique
 Chart…	Graphique…
-Check Accessibility	Vérifier l’accessibilité
-Check\nAccessibility	Vérifier\nl’accessibilité
+Check Accessibility	Vérifier l'accessibilité
+Check\nAccessibility	Vérifier\nl'accessibilité
 Checkerboard	Damier
 Chevron	Chevron
 Choose a SmartArt Graphic	Choisir un graphique SmartArt
 Chord	Corde
 Circle	Cercle
-Circle In	Cercle vers l’intérieur
-Circle Out	Cercle vers l’extérieur
+Circle In	Cercle vers l'intérieur
+Circle Out	Cercle vers l'extérieur
 Clear All Formatting	Effacer toute la mise en forme
-Click a symbol to insert it at the insertion point.	Cliquez sur un symbole pour l’insérer au point d’insertion.
+Click a symbol to insert it at the insertion point.	Cliquez sur un symbole pour l'insérer au point d'insertion.
 Click icon to add SmartArt graphic	Cliquez sur une icône pour ajouter un graphique SmartArt
 Click icon to add chart	Cliquez sur une icône pour ajouter un graphique
 Click icon to add media	Cliquez sur une icône pour ajouter un média
@@ -247,7 +247,7 @@ Contributors	Contributeurs
 Conveyor	Convoyeur
 Copy	Copier
 Corrections	Corrections
-Couldn't save AutoRecover information: {e}	Impossible d’enregistrer les informations de Récupération automatique : {e}
+Couldn't save AutoRecover information: {e}	Impossible d'enregistrer les informations de Récupération automatique : {e}
 Counter Clockwise	Sens antihoraire
 Cover	Couvrir
 Create	Créer
@@ -307,12 +307,12 @@ Design\nIdeas	Idées de\nconception
 Deutsch	Deutsch
 Diagonal Stripe	Rayure diagonale
 Diamond	Losange
-Diamond In	Losange vers l’intérieur
-Diamond Out	Losange vers l’extérieur
+Diamond In	Losange vers l'intérieur
+Diamond Out	Losange vers l'extérieur
 Direction	Direction
 Disappear	Disparaître
 Discard Recovered Presentations	Abandonner les présentations récupérées
-Display name	Nom d’affichage
+Display name	Nom d'affichage
 Dissolve	Dissolution
 Dissolve In	Fondu entrant
 Dissolve Out	Fondu sortant
@@ -353,8 +353,8 @@ Edit the data: first row = series names, first column = categories.	Modifiez les
 Edit\nData	Modifier les données
 Edit\nShape	Modifier la forme
 Editing	Modification
-Effect Options	Options d’effet
-Effect\nOptions	Options d’effet
+Effect Options	Options d'effet
+Effect\nOptions	Options d'effet
 Effects	Effets
 Email Address	Adresse de messagerie
 Email address:	Adresse de messagerie :
@@ -370,7 +370,7 @@ Enter	Entrée
 Entrance	Entrée
 Equals	Égal
 Equation	Équation
-Equation Shapes	Formes d’équation
+Equation Shapes	Formes d'équation
 Eraser	Gomme
 Escape	Échap
 Español	Español
@@ -437,8 +437,8 @@ Flowchart: Sort	Organigramme : Tri
 Flowchart: Stored Data	Organigramme : Données stockées
 Flowchart: Summing Junction	Organigramme : Nœud de sommation
 Flowchart: Terminator	Organigramme : Début/Fin
-Fly In	Voler vers l’intérieur
-Fly Out	Voler vers l’extérieur
+Fly In	Voler vers l'intérieur
+Fly Out	Voler vers l'extérieur
 Fly Through	Vol à travers
 Folded Corner	Coin plié
 Follow the layout	Selon la disposition
@@ -450,14 +450,14 @@ Fonts	Polices
 Footer	Pied de page
 Foreground	Premier plan
 Format	Format
-Format Background	Mise en forme de l’arrière-plan
-Format Background…	Mise en forme de l’arrière-plan…
+Format Background	Mise en forme de l'arrière-plan
+Format Background…	Mise en forme de l'arrière-plan…
 Format Painter	Reproduire la mise en forme
 Format Painter (double-click to keep it on)	Reproduire la mise en forme (double-clic pour le maintenir actif)
 Format Pane	Volet Mise en forme
 Format Shape	Mise en forme de la forme
 Format Shape…	Mise en forme de la forme…
-Format\nBackground	Mise en forme de l’arrière-plan
+Format\nBackground	Mise en forme de l'arrière-plan
 Format\nPane	Volet Mise en forme
 Formatting State	État de la mise en forme
 Fracture	Fracture
@@ -519,7 +519,7 @@ Handouts (9 slides per page)	Documents (9 diapositives par page)
 Header	En-tête
 Header & Footer	En-tête et pied de page
 Header &\nFooter	En-tête et pied de page
-Header Row	Ligne d’en-tête
+Header Row	Ligne d'en-tête
 Header and Footer	En-tête et pied de page
 Header and Footer…	En-tête et pied de page…
 Heart	Cœur
@@ -530,25 +530,25 @@ Help	Aide
 Heptagon	Heptagone
 Hexagon	Hexagone
 Hide All	Tout masquer
-Hide Background Graphics	Masquer les graphiques d’arrière-plan
+Hide Background Graphics	Masquer les graphiques d'arrière-plan
 Hide During Show	Masquer pendant le diaporama
 Hide Slide	Masquer la diapositive
-Hide background graphics	Masquer les graphiques d’arrière-plan
+Hide background graphics	Masquer les graphiques d'arrière-plan
 Hide\nSlide	Masquer la diapositive
 Hierarchy	Hiérarchie
 High	Élevée
 Highlighter	Surligneur
 Histogram	Histogramme
 Home	Accueil
-Honeycomb	Nid d’abeilles
+Honeycomb	Nid d'abeilles
 Horizontal	Horizontal
-Horz In	Horizontalement vers l’intérieur
-Horz Out	Horizontalement vers l’extérieur
+Horz In	Horizontalement vers l'intérieur
+Horz Out	Horizontalement vers l'extérieur
 How would you describe this object and its context to someone who is blind or has low vision?	Comment décririez-vous cet objet et son contexte à une personne aveugle ou malvoyante ?
 Hyperlink	Lien hypertexte
 Icons	Icônes
-In	Vers l’intérieur
-In Bounce	Vers l’intérieur avec rebond
+In	Vers l'intérieur
+In Bounce	Vers l'intérieur avec rebond
 Include hidden slides	Inclure les diapositives masquées
 Increase Font Size	Augmenter la taille de police
 Increase List Level	Augmenter le niveau de liste
@@ -572,7 +572,7 @@ Insert Placeholder	Insérer un espace réservé
 Insert Right	Insérer à droite
 Insert Table	Insérer un tableau
 Insert Table…	Insérer un tableau…
-Insert picture from file…	Insérer une image à partir d’un fichier…
+Insert picture from file…	Insérer une image à partir d'un fichier…
 Insert\nAbove	Insérer au-dessus
 Insert\nBelow	Insérer en dessous
 Insert\nLayout	Insérer une disposition
@@ -582,9 +582,9 @@ Insert\nRight	Insérer à droite
 Inspect Presentation	Inspecter la présentation
 Inspect Shape	Inspecter la forme
 Inspect Slide	Inspecter la diapositive
-Interface Language	Langue de l’interface
-Interface language:	Langue de l’interface :
-Interface size	Taille de l’interface
+Interface Language	Langue de l'interface
+Interface language:	Langue de l'interface :
+Interface size	Taille de l'interface
 Isosceles Triangle	Triangle isocèle
 Italiano	Italiano
 Italic	Italique
@@ -1201,19 +1201,193 @@ Zoom Out	Zoom arrière
 Zoom…	Zoom…
 a) b) c)	a) b) c)
 a. b. c.	a. b. c.
+Accept Revision	Accepter la révision
+Action Settings	Paramètres de l'action
+Add Font	Ajouter une police
+Add Guide	Ajouter un repère
+Add Point	Ajouter un point
+Add Shape	Ajouter une forme
+Add to Dictionary	Ajouter au dictionnaire
+Align Cell Text	Aligner le texte de la cellule
+Apply Design Idea	Appliquer l'idée de conception
+Arrow: Circular	Flèche : Circulaire
+Arrow: Circular Counter-clockwise	Flèche : Circulaire dans le sens antihoraire
+Arrow: Circular Two-headed	Flèche : Circulaire à deux pointes
+Arrow: Curved Down	Flèche : Courbée vers le bas
+Arrow: Curved Left	Flèche : Courbée vers la gauche
+Arrow: Curved Right	Flèche : Courbée vers la droite
+Arrow: Curved Up	Flèche : Courbée vers le haut
+Arrow: Swoosh	Flèche : Swoosh
+Artistic Effects	Effets artistiques
+AutoCorrect Options	Options de correction automatique
+Bean	Haricot
+Borders	Bordures
+Bounce Left	Rebond vers la gauche
+Bounce Right	Rebond vers la droite
+Browse for Themes…	Parcourir les thèmes…
+Callout: Bent Line	Légende : Ligne coudée
+Callout: Bent Line with Accent Bar	Légende : Ligne coudée avec barre d'accent
+Callout: Bent Line with Border and Accent Bar	Légende : Ligne coudée avec bordure et barre d'accent
+Callout: Bent Line with No Border	Légende : Ligne coudée sans bordure
+Callout: Double Bent Line	Légende : Ligne à double coude
+Callout: Double Bent Line with Accent Bar	Légende : Ligne à double coude avec barre d'accent
+Callout: Double Bent Line with Border and Accent Bar	Légende : Ligne à double coude avec bordure et barre d'accent
+Callout: Double Bent Line with No Border	Légende : Ligne à double coude sans bordure
+Callout: Left-Right Arrow	Légende : Flèche gauche-droite
+Callout: Line with Accent Bar	Légende : Ligne avec barre d'accent
+Callout: Line with Border and Accent Bar	Légende : Ligne avec bordure et barre d'accent
+Callout: Line with No Border	Légende : Ligne sans bordure
+Callout: Quad Arrow	Légende : Flèche quadruple
+Callout: Up-Down Arrow	Légende : Flèche haut-bas
+Cell Margins	Marges de cellule
+Change Colors	Modifier les couleurs
+Change Layout	Modifier la disposition
+Change Picture…	Modifier l'image…
+Change Spelling	Modifier l'orthographe
+Chart Marker: Cross Lines	Marqueur de graphique : Lignes croisées
+Chart Marker: Plus Lines	Marqueur de graphique : Lignes en croix
+Chart Marker: Star Lines	Marqueur de graphique : Lignes en étoile
+Color At	Couleur à l'emplacement
+Commit Composition	Valider la composition
+Compare	Comparer
+Compare…	Comparer…
+Compose Text	Composer le texte
+Compress Pictures	Compresser les images
+Contract	Contraction
+Convert to Shapes	Convertir en formes
+Convert to SmartArt	Convertir en SmartArt
+Convert to Text	Convertir en texte
+Corner Tabs: Quarter Circles	Languettes de coin : Quarts de cercle
+Corner Tabs: Squares	Languettes de coin : Carrés
+Corner Tabs: Triangles	Languettes de coin : Triangles
+Crescent Moon	Croissant de lune
+Curved Square	Carré courbé
+Decaying Wave	Onde amortie
+Delete Guide	Supprimer le repère
+Delete Point	Supprimer le point
+Demote	Rétrograder
+Diagonal Down Right	Diagonale vers le bas à droite
+Diagonal Up Right	Diagonale vers le haut à droite
+Draw Table	Dessiner un tableau
 dropped file	fichier déposé
+Edit Photo Album…	Modifier l'album photo…
+Edit Points	Modifier les points
+Edit SmartArt Text	Modifier le texte SmartArt
+End Review	Terminer la révision
+Find	Rechercher
+Flowchart: Offline Storage	Organigramme : Stockage hors ligne
+Fonts in Presentation	Polices dans la présentation
+Font…	Police…
+Football	Ballon de football américain
+Gear: 6 Teeth	Engrenage : 6 dents
+Gear: 9 Teeth	Engrenage : 9 dents
+Grid and Guides	Grille et repères
+Grid Options…	Options de la grille…
+Handout Placeholders	Espaces réservés des documents
+Heartbeat	Battement de cœur
+Hex D	Hexagone bas
+Hex L	Hexagone gauche
+Hex R	Hexagone droite
+Hex U	Hexagone haut
+Horizontal Figure 8	Huit horizontal
 i. ii. iii.	i. ii. iii.
+Icon Gallery	Galerie d'icônes
+Info	Informations
+Ink to Shape: turn drawn lines, rectangles, ovals and triangles into shapes	Encre vers forme : transforme les lignes, rectangles, ovales et triangles dessinés en formes
+Insert Picture in SmartArt	Insérer une image dans SmartArt
+Insert Picture in SmartArt…	Insérer une image dans SmartArt…
+Insert Synonym	Insérer un synonyme
+Layout Placeholders	Espaces réservés de la disposition
+Line: Rising	Ligne : Montante
+Loop de Loop	Looping
+Move Guide	Déplacer le repère
+Move Handle	Déplacer la poignée
+Move Point	Déplacer le point
+Neutron	Neutron
+New Window	Nouvelle fenêtre
+Next Comment	Commentaire suivant
+No comments.	Aucun commentaire.
 no presentation open	Aucune présentation ouverte
 no slides	Aucune diapositive
 no text insertion point	Aucun point d'insertion de texte
+Notes Placeholders	Espaces réservés des notes
 nothing selected	Rien n'est sélectionné
 nothing to redo	Rien à rétablir
 nothing to undo	Rien à annuler
+Open	Ouvrir
+Particles In	Particules entrantes
+Particles Out	Particules sortantes
+Paste Special	Collage spécial
+Paste Special…	Collage spécial…
+Peanut	Cacahuète
+Peek Out	Disparition en coulisse
+Photo Album…	Album photo…
+Pick a design for this slide. Ideas are generated on your device.	Choisissez un design pour cette diapositive. Les idées sont générées sur votre appareil.
+Picture Style Gallery	Galerie de styles d'image
+Point Type	Type de point
+Points	Points
+Preserve	Conserver
+Preview Animations	Aperçu des animations
+Previous Comment	Commentaire précédent
+Print	Imprimer
+Print…	Imprimer…
+Promote	Promouvoir
+Quarter Wedge	Quart de coin
+Quick Access Toolbar	Barre d'outils Accès rapide
+Recolor	Recolorier
+Recolor Gallery	Galerie de recoloriage
+Remove Shape	Supprimer une forme
+Replace	Remplacer
+Replace Fonts	Remplacer les polices
+Replace…	Remplacer…
+Rescan Installed Fonts	Réanalyser les polices installées
+Reuse Slides…	Réutiliser les diapositives…
+Revisions	Révisions
+Ribbon: Curved and Tilted Down	Ruban : courbé et incliné vers le bas
+Ribbon: Curved and Tilted Up	Ruban : courbé et incliné vers le haut
+Ribbon: Left-Right Fold	Ruban : pli gauche-droite
+S Curve 1	Courbe en S 1
+S Curve 2	Courbe en S 2
 select text or a shape	Sélectionnez du texte ou une forme
 select two or more objects	Sélectionnez deux objets ou plus
+Set Transparent Color	Définir la couleur transparente
+Set Zoom	Définir le zoom
+Sine Wave	Onde sinusoïdale
+Single L	Simple gauche
+Single R	Simple droite
+Sink Down	Enfoncement
 size (pt)	taille (pt)
+Size and Position…	Taille et position…
+SmartArt Styles	Styles SmartArt
+Smooth Corners	Coins adoucis
+Sound	Son
+Spelling Dictionary	Dictionnaire orthographique
+Spiral Left	Spirale vers la gauche
+Spiral Right	Spirale vers la droite
+Spring	Ressort
+Stairs Down	Escalier vers le bas
+Starter Templates	Modèles de démarrage
+Strips In	Bandes entrantes
+Strips Out	Bandes sortantes
+Swoosh	Swoosh
+Table Eraser	Gomme de tableau
+Tabs…	Tabulations…
+Text Pane	Volet Texte
+Text Transform	Transformation du texte
+Text Transparency	Transparence du texte
 tOGGLE cASE	tOGGLE cASE
+Trapezoid: Uneven Sides	Trapèze : Côtés inégaux
 unknown interface language	Langue d'interface inconnue
+Unlock	Déverrouiller
+Variant Gallery	Galerie de variantes
+Variants	Variantes
+Vertical Figure 8	Huit vertical
+Zigzag	Zigzag
+ (not checked)	 (non vérifié)
+4 Point Star	Étoile à 4 branches
+5 Point Star	Étoile à 5 branches
+6 Point Star	Étoile à 6 branches
+8 Point Star	Étoile à 8 branches
 {ch}  Bullet	{ch}  Puce
 {f} (Body)	{f} (Corps)
 {f} (Headings)	{f} (Titres)
